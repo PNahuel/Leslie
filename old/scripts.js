@@ -14,7 +14,7 @@ document.getElementById("checkout").innerHTML = `Pagar $${total}`
 const urlDesktop = 'https://web.whatsapp.com/';
 const urlMobile = 'whatsapp://';
 
-const telefono = '542634256064';
+const telefono = '542612528642';
 
 
 function pay(){
