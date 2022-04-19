@@ -2613,7 +2613,27 @@ hr {
 	user-select: none;
 	transition: 250ms all ease-in-out;
 }
-
+.buttonNAHU {
+	position: relative;
+	overflow: hidden;
+	display: inline-block;
+	padding: 14px 35px;
+	font-size: 15px;
+	line-height: 1.25;
+	border: 1px solid;
+	border-radius: 0;
+	font-family: "Poppins", sans-serif;
+	font-weight: 600;
+	letter-spacing: 0;
+	text-transform: uppercase;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	text-align: center;
+	cursor: pointer;
+	vertical-align: middle;
+	user-select: none;
+	transition: 250ms all ease-in-out;
+}
 .button-block {
 	display: block;
 	width: 100%;
